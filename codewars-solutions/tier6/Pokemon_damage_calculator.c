@@ -1,3 +1,5 @@
+//https://www.codewars.com/kata/536e9a7973130a06eb000e9f
+
 int calculate_damage(const char *your_type, const char *opponent_type, int attack, int defense) {
     int c = -1;
     switch(your_type[0])
