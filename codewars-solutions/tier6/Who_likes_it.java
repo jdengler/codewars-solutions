@@ -1,3 +1,5 @@
+//https://www.codewars.com/kata/5266876b8f4bf2da9b000362
+
 class Solution {
     public static String whoLikesIt(String... names) {
         switch(names.length){
