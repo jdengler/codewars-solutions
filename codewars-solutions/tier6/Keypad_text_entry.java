@@ -1,3 +1,5 @@
+//https://www.codewars.com/kata/54a2e93b22d236498400134b
+
 public class Keypad {
   public static int presses(String phrase) {
     int[][] taps = {/*one*/   {32, 42, 35, 49, 65, 68, 71, 74, 77, 80, 84, 87},
