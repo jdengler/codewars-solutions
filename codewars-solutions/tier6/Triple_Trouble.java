@@ -1,3 +1,5 @@
+//https://www.codewars.com/kata/55d5434f269c0c3f1b000058
+
 public class Kata
 {
   public static int TripleDouble(long num1, long num2)
