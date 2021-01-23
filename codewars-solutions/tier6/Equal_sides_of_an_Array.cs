@@ -1,3 +1,5 @@
+//https://www.codewars.com/kata/5679aa472b8f57fb8c000047
+
 public class Kata
 {
   public static int FindEvenIndex(int[] arr)
