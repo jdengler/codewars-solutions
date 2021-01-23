@@ -1,3 +1,5 @@
+//https://www.codewars.com/kata/55ab4f980f2d576c070000f4
+
 public class Suite2 {
 
   public static String game(long n) {
