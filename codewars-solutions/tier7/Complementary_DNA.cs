@@ -1,3 +1,5 @@
+//https://www.codewars.com/kata/554e4a2f232cdd87d9000038
+
 public class DnaStrand
     {
         public static string MakeComplement(string dna)
